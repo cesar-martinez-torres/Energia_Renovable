@@ -216,5 +216,33 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Streamlit
-.streamlit/secrets.toml
+# Configuracion local de editores
+.vscode/
+.idea/
+*.code-workspace
+
+# Archivos del sistema operativo
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Archivos temporales y copias de respaldo
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# Configuracion y estado local de Jupyter/IPython
+.jupyter/
+.ipython/
+jupyter_runtime/
+
+# Variables y secretos locales; se permite una plantilla publica
+.env.*
+!.env.example

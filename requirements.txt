@@ -1,0 +1,14 @@
+# Entorno base del curso Energia Renovable.
+# Versiones compatibles con Python 3.13.
+numpy>=2.3,<2.6
+scipy>=1.17,<1.19
+pandas>=3.0,<3.1
+matplotlib>=3.10,<3.12
+numpy-financial==1.1.0
+pvlib==0.16.1
+openpyxl>=3.1,<4
+requests>=2.32,<3
+jupyterlab>=4.6,<4.7
+ipykernel>=7.2,<7.4
+ipywidgets>=8.1,<9
+
