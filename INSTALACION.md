@@ -6,9 +6,9 @@ Estas instrucciones preparan en Windows un ambiente independiente para los ejerc
 
 Instala los siguientes programas:
 
-1. Git: <https://git-scm.com/download/win>
-2. Python 3.13: <https://www.python.org/downloads/>
-3. Visual Studio Code: <https://code.visualstudio.com/>
+1. Git: [https://git-scm.com/download/win](https://git-scm.com/download/win)
+2. Python 3.13: [https://www.python.org/downloads/](https://www.python.org/downloads/)
+3. Visual Studio Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 Durante la instalación de Python, activa la opción **Add Python to PATH**. En Visual Studio Code instala las extensiones **Python** y **Jupyter**, ambas publicadas por Microsoft.
 
@@ -64,5 +64,3 @@ También puedes iniciar Jupyter Lab desde PowerShell:
 - **No se puede ejecutar `setup.ps1`:** confirma que ejecutaste `Set-ExecutionPolicy -Scope Process Bypass` en la misma ventana.
 - **No aparece el kernel:** reinicia Visual Studio Code y vuelve a abrir el cuaderno.
 - **La instalación se interrumpió:** vuelve a ejecutar `.\setup.ps1`; el instalador reutiliza y actualiza el ambiente existente.
-
-
