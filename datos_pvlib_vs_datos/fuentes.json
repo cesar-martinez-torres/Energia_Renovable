@@ -1,0 +1,110 @@
+[
+  {
+    "archivo": "nasa/puebla_diario_2015_2025_utc.json",
+    "fuente": "NASA POWER",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN,CLRSKY_SFC_SW_DWN&community=RE&longitude=-98.20&latitude=19.04&format=JSON&time-standard=UTC&start=20150101&end=20251231",
+    "descargado_utc": "2026-11-18T06:11:02.072652+00:00",
+    "bytes": 144271,
+    "sha256": "679082baad958124f09dd4f68630c3f411ab13097a64ce78d01bb68b8c2a39da",
+    "ultima_modificacion": null
+  },
+  {
+    "archivo": "nasa/puebla_horario_2025_utc.json",
+    "fuente": "NASA POWER",
+    "url": "https://power.larc.nasa.gov/api/temporal/hourly/point?parameters=ALLSKY_SFC_SW_DWN,CLRSKY_SFC_SW_DWN&community=RE&longitude=-98.20&latitude=19.04&format=JSON&time-standard=UTC&start=20250101&end=20260101",
+    "descargado_utc": "2026-11-18T06:11:02.673705+00:00",
+    "bytes": 322833,
+    "sha256": "3e4731e6fd9691a586d12b7ea517b6bf9bd09924f1c713fb6d24e5ebd1016161",
+    "ultima_modificacion": null
+  },
+  {
+    "archivo": "surfrad/bon25166.dat",
+    "fuente": "NOAA SURFRAD",
+    "url": "https://gml.noaa.gov/aftp/data/radiation/surfrad/Bondville_IL/2025/bon25166.dat",
+    "descargado_utc": "2026-11-18T06:11:03.197478+00:00",
+    "bytes": 351405,
+    "sha256": "25b5d241f78361921cf6abce1cd2b0c53c711122c5f5c466a34958be6057d608",
+    "ultima_modificacion": "Thu, 13 Aug 2026 17:23:09 GMT"
+  },
+  {
+    "archivo": "surfrad/bon25167.dat",
+    "fuente": "NOAA SURFRAD",
+    "url": "https://gml.noaa.gov/aftp/data/radiation/surfrad/Bondville_IL/2025/bon25167.dat",
+    "descargado_utc": "2026-11-18T06:11:03.808702+00:00",
+    "bytes": 351405,
+    "sha256": "e5a5cbf6fcef22543659415280ef1379b319aaec937f472ec1e7d2f56dad471b",
+    "ultima_modificacion": "Thu, 13 Aug 2026 17:23:11 GMT"
+  },
+  {
+    "archivo": "surfrad/bon25168.dat",
+    "fuente": "NOAA SURFRAD",
+    "url": "https://gml.noaa.gov/aftp/data/radiation/surfrad/Bondville_IL/2025/bon25168.dat",
+    "descargado_utc": "2026-11-18T06:11:04.326213+00:00",
+    "bytes": 351405,
+    "sha256": "ae149719cf41fd6ceb7191fb39ef1f16762d1ec2561ab0e2c7d70006f3db44bc",
+    "ultima_modificacion": "Thu, 13 Aug 2026 17:32:51 GMT"
+  },
+  {
+    "archivo": "surfrad/bon25169.dat",
+    "fuente": "NOAA SURFRAD",
+    "url": "https://gml.noaa.gov/aftp/data/radiation/surfrad/Bondville_IL/2025/bon25169.dat",
+    "descargado_utc": "2026-11-18T06:11:04.482891+00:00",
+    "bytes": 351405,
+    "sha256": "baa0e03de52f69448393e12453812693e8fc219e3c0fa6a61f5acc1130e5c892",
+    "ultima_modificacion": "Thu, 13 Aug 2026 17:32:52 GMT"
+  },
+  {
+    "archivo": "surfrad/bon25170.dat",
+    "fuente": "NOAA SURFRAD",
+    "url": "https://gml.noaa.gov/aftp/data/radiation/surfrad/Bondville_IL/2025/bon25170.dat",
+    "descargado_utc": "2026-11-18T06:11:04.544258+00:00",
+    "bytes": 351405,
+    "sha256": "835961bb8c34c2f47a3473986d53f22a83f39eee088479e2ec4e01cabb4a9d3d",
+    "ultima_modificacion": "Thu, 13 Aug 2026 17:23:16 GMT"
+  },
+  {
+    "archivo": "surfrad/bon25171.dat",
+    "fuente": "NOAA SURFRAD",
+    "url": "https://gml.noaa.gov/aftp/data/radiation/surfrad/Bondville_IL/2025/bon25171.dat",
+    "descargado_utc": "2026-11-18T06:11:04.623250+00:00",
+    "bytes": 351405,
+    "sha256": "1be2c0902a945a8b850b51d25c95cafa63cb7dcbeb5f877e291b22b4e9dfc434",
+    "ultima_modificacion": "Thu, 13 Aug 2026 17:23:18 GMT"
+  },
+  {
+    "archivo": "surfrad/bon25172.dat",
+    "fuente": "NOAA SURFRAD",
+    "url": "https://gml.noaa.gov/aftp/data/radiation/surfrad/Bondville_IL/2025/bon25172.dat",
+    "descargado_utc": "2026-11-18T06:11:04.685762+00:00",
+    "bytes": 351405,
+    "sha256": "82c3c3ad4c475518b2ae780646d956a1ebc60257866cb5c5e740d283666bfb25",
+    "ultima_modificacion": "Thu, 13 Aug 2026 17:32:53 GMT"
+  },
+  {
+    "archivo": "surfrad/formato_NOAA_SURFRAD.txt",
+    "fuente": "NOAA SURFRAD",
+    "url": "https://gml.noaa.gov/aftp/data/radiation/surfrad/Bondville_IL/README_SURFRAD.txt",
+    "descargado_utc": "2026-11-18T06:12:36.241975+00:00",
+    "bytes": 24941,
+    "sha256": "ed3e5c16f169a9def997877e6037735977f2761c9c3c39d493c8f3127e82f3a6",
+    "ultima_modificacion": "Mon, 24 Jun 2024 16:50:45 GMT"
+  },
+  {
+    "archivo": "surfrad/bon25173.dat",
+    "fuente": "NOAA SURFRAD",
+    "url": "https://gml.noaa.gov/aftp/data/radiation/surfrad/Bondville_IL/2025/bon25173.dat",
+    "descargado_utc": "2026-11-18T06:16:17.460048+00:00",
+    "bytes": 351405,
+    "sha256": "ac7b6a06180227cd31ed1801d56a4d093da4e4908d564229f6362bff91674bf9",
+    "ultima_modificacion": "Thu, 13 Aug 2026 17:32:53 GMT"
+  },
+  {
+    "archivo": "nasa/bondville_horario_20250615_20250621_utc.json",
+    "fuente": "NASA POWER",
+    "url": "https://power.larc.nasa.gov/api/temporal/hourly/point?parameters=ALLSKY_SFC_SW_DWN,CLRSKY_SFC_SW_DWN&community=RE&longitude=-88.37&latitude=40.05&format=JSON&time-standard=UTC&start=20250615&end=20250621",
+    "descargado_utc": "2026-11-18T06:16:18.320959+00:00",
+    "bytes": 6883,
+    "sha256": "4a81e2c87c6fb97bcf0666fe8d4aa2fb28d939edce9e6d1ee6e06fcfe1348e2e",
+    "ultima_modificacion": null
+  }
+]

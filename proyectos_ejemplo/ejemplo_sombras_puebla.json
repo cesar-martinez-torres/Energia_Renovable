@@ -1,0 +1,59 @@
+{
+  "version": 2,
+  "latitude": 19.04,
+  "longitude": -98.2,
+  "altitude": 2160.0,
+  "timezone": "America/Mexico_City",
+  "start": "2026-01-01",
+  "end": "2026-12-31",
+  "minutes": 15,
+  "receiver_x": 0.0,
+  "receiver_y": 0.0,
+  "receiver_z": 1.5,
+  "surface_tilt": 20.0,
+  "surface_azimuth": 180.0,
+  "vertical_scale": 3.0,
+  "radiation_source": "Cielo despejado",
+  "albedo": 0.2,
+  "weather_data": [],
+  "weather_key": "",
+  "sun_date": "2026-03-20",
+  "sun_hour": 9.0,
+  "buildings": [
+    {
+      "id": "B1",
+      "name": "Edificio 1",
+      "x": -220.0,
+      "y": 150.0,
+      "width": 40.0,
+      "depth": 300.0,
+      "height": 25.0,
+      "rotation": 0.0
+    },
+    {
+      "id": "B2",
+      "name": "Edificio 2",
+      "x": 225.0,
+      "y": 225.0,
+      "width": 50.0,
+      "depth": 50.0,
+      "height": 35.0,
+      "rotation": 0.0
+    },
+    {
+      "id": "B3",
+      "name": "Edificio 3",
+      "x": 200.0,
+      "y": -320.0,
+      "width": 400.0,
+      "depth": 40.0,
+      "height": 20.0,
+      "rotation": 0.0
+    }
+  ],
+  "mask_mode": "Edificios",
+  "solar_mode": "pvlib",
+  "imported_mask": [],
+  "imported_solar": [],
+  "example_note": "Ejemplo inspirado en el esquema de clase. Alturas: 25, 35 y 20 m. E1: cara este x=-200 m, longitud norte-sur 300 m. E2: caras pr\u00f3ximas x=200 m, y=200 m; planta 50 \u00d7 50 m. E3: cara norte y=-300 m, ancho este-oeste 400 m. Espesores de E1 y E3: 40 m supuestos; planta de E2 cuadrada supuesta. Receptor a 1.5 m y orientaci\u00f3n inicial 20\u00b0/180\u00b0 supuestos. Todos los edificios parten del terreno horizontal z=0."
+}
